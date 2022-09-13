@@ -1,2 +1,2 @@
 # Images
-To store image files.
+To store public image files.
